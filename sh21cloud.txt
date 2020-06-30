@@ -1,1 +1,9 @@
-ng,mr k
+
+what is cloud
+Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user. 
+
+
+diff types of cloud
+public cloud
+private cloud
+hybrid cloud
