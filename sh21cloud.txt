@@ -1,9 +1,24 @@
 
 what is cloud
-Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user. 
+Cloud computing is the on-demand availability of computer system resources, 
+especially data storage and computing power, without direct active management by the user. 
 
 
 diff types of cloud
 public cloud
 private cloud
 hybrid cloud
+
+advantages of cloud
+Efficiency / cost reduction
+Data security
+Scalability
+Mobility
+Disaster recovery
+Control
+
+
+ec2
+Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, 
+resizable compute capacity in the cloud. It is designed to make web-scale cloud computing easier for developers. 
+Amazon EC2's simple web service interface allows you to obtain and configure capacity with minimal friction.
